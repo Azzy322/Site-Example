@@ -43087,7 +43087,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-btn-1 {
   border-style: solid;
-  margin: 0 auto;
+  margin: 0 0 0 auto;
   padding: 0;
 }
 
@@ -43101,7 +43101,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-btn-2 {
   border-style: solid;
-  margin: 0 auto;
+  margin: 0 auto 0 0;
   padding: 0;
 }
 @media (max-width: 1199px) {
@@ -43189,10 +43189,6 @@ a.u-link.u-text-hover-grey-90:hover {
     padding-right: 10px;
   }
 
-  .u-footer .u-btn-1 {
-    margin-right: 0;
-  }
-
   .u-footer .u-layout-cell-2 {
     min-height: 54px;
   }
@@ -43200,10 +43196,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-container-layout-6 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-footer .u-btn-2 {
-    margin-left: 0;
   }
 }
 @media (max-width: 575px) {

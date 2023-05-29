@@ -1,4 +1,8 @@
- .u-section-1 {
+body {
+  overflow-y: hidden;
+} 
+
+.u-section-1 {
   background-image: none;
 }
 
